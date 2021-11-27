@@ -59,3 +59,19 @@ container ul li li li{
 top: 0px;
 border:1px solid #242F36;
 }
+/*******************pagination*********************************
+*/
+.pagination a {
+  color: black;
+  float: left;
+  padding: 8px 17px;
+  text-decoration: none;
+  transition: background-color .3s;
+}
+
+.pagination a.active {
+  background-color: dodgerblue;
+  color: white;
+}
+
+.pagination a:hover:not(.active) {background-color: #3B5998;}

@@ -1,13 +1,15 @@
+
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml"><head><title>Exploration | Free Web Template by WebTemplateOcean.com</title>
 
   
 
-   <link rel="stylesheet" href="footer.css" />
+  
   
   <link rel="stylesheet" href="style2.css" />
 
-  <link rel="stylesheet" href="footer.css" />
+  
+ <link rel="stylesheet" href="footer.css" />
   <meta name="keywords" content="" />
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="" />
@@ -154,43 +156,208 @@
 </ul>
 </div>
 </div>
-
-<div id="intro"><img src="images/imgg/DSC_0108.JPG" alt="" style="width: 921px; height: 415px;" /><br />
-
-</div>
-
+<div id="intro"><big><big><big><big><big><big><big><img style="width: 921px; height: 415px;" alt="" src="images/imgg/110.jpg" /><br />
+</big></big></big></big></big></big></big></div>
 <div id="main">
 <div id="main2">
 <div id="main3">
-<div style="text-align: center;"> </div>
+<div style="text-align: center;"><big><big><big><big><big><big><big> </big></big></big></big></big></big></big></div>
 <div id="content">
-<div style="text-align: center;"> </div>
+<div style="text-align: center;"><big><big><big><big><big><big><big> </big></big></big></big></big></big></big></div>
 <div class="post">
-<div style="text-align: center;"> </div>
-<h2 style="text-align: center;"><a href="#"><span><span /></span></a><small><small><small><a href="#"><span> <big style="font-style: italic; font-family: Times New Roman; font-weight: bold;"><big>Bienvenue
-dans l'espace de documentation <br />
-</big></big></span></a></small></small></small></h2>
-<h2 style="text-align: center;"><small><small><small><a href="#"><span><big style="font-style: italic; font-family: Times New Roman; font-weight: bold;"><big>en
-ligne de la faculté FSEI !</big></big></span></a></small></small></small></h2>
-
-
-
-</p>
-<p class="MsoNormal" style="line-height: 115%;"><a href="tronccommunMI.html">
-</a></p>
-<p class="MsoNormal" style="line-height: 115%;"><a href="tronccommunMI.html">
-</a></p>
-<p class="MsoNormal" style="line-height: 115%; color: rgb(102, 102, 102);">
-<small style="color: black;"><span style="font-weight: bold; font-style: italic;"><span style="font-size: 24pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;">Dans
-cette espace vous trouverez tout les supports pédagogique enseignés
-dans la
-faculté FSEI.&nbsp;<br />
+<div style="text-align: center;"><big><big><big><big><big><big><big> </big></big></big></big></big></big></big></div>
+<h2 style="text-align: center;"><big><big><br />
+<a href="#"><span><span /></span></a><small><small><small><a href="#"><span><big style="font-family: Times New Roman; font-weight: bold;"><big><span style="font-family: Times New Roman,Times,serif;" /></big></big></span></a></small></small></small></big></big></h2>
+<h2 style="text-align: center;"><small><small><small><a href="#"><span><big style="font-family: Times New Roman; font-weight: bold;"><big><span style="font-family: Times New Roman,Times,serif;">Inscription:</span></big></big></span></a></small></small></small></h2>
+<big><big><br />
 <br />
-pour pouvoir télécharger ces support vous devriez vous inscrivez .</span></span></small><b><i>
-<span style="font-size: 24pt; line-height: 115%; font-family: &quot;Times New Roman&quot;,&quot;serif&quot;;"><o:p /></span></i></b></p>
+<br />
+<br />
+<br />
+<br />
+</big></big>
+<div style="margin-left: 40px;">
+<div style="margin-left: 40px;"><big><big><br />
+<br />
+</big></big><form method="post" action="inscrit.php" enctype="multipart/form-data"  autocomplete="off"><big><big>
+<small><label style="color: rgb(102, 0, 0); font-weight: bold; font-style: italic;">Nom:</label><span><big style="font-family: Times New Roman,Times,serif;">
+<span style="color: rgb(102, 204, 204);">&nbsp;</span> &nbsp; &nbsp;</big>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  <input size="25" name="nom" required="" /></span><br />
+<span> </span><br />
+<span>
+</span><br />
+<span>
+</span><br />
+<span> <big style="font-family: Times New Roman,Times,serif;"><label style="color: rgb(102, 0, 0); font-weight: bold; font-style: italic;">
+Prénom:</label></big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;&nbsp; 
+<input size="25" name="prenom" required="" />&nbsp; &nbsp; <br />
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</span>
+<span>
+</span><br />
+<span> </span></small>
+<span><small><br />
+<br />
+
+
+
+<span> <big style="font-family: Times New Roman,Times,serif;"><label style="color: rgb(102, 0, 0); font-weight: bold; font-style: italic;">
+Sexe:</label>&nbsp;
+</big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<input size="25" name="sexe" value="H" type="radio" /><span style="font-family: Times New Roman,Times,serif;">Homme</span> &nbsp; &nbsp; &nbsp; &nbsp; 
+<input size="25" name="sexe"  value="F" type="radio" /><span style="font-family: Times New Roman,Times,serif;">Femme</span>
+&nbsp; &nbsp; <br />
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;</span>
+<span>
+</span><br />
+<span> </span></small>
+<span><small><br />
+<br />
+
+
+
+
+<span>
+<big style="font-family: Times New Roman,Times,serif;"><label style="color: rgb(102, 0, 0); font-style: italic; font-weight: bold;">e_mail
+:&nbsp;</label><span style="color: rgb(102, 204, 204);">
+&nbsp;</span></big> &nbsp;
+&nbsp; &nbsp; </span>
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;<input size="35" name="e" required="" type="email" />
+<span>
+</span><br />
+</small>
+<span><small><span><span><big style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(102, 204, 204);">&nbsp;</span>&nbsp;&nbsp;</big>&nbsp;&nbsp;
+<br />
+<br />
+<big style="font-family: Times New Roman; color: rgb(102, 0, 0);"><label style="font-weight: bold; font-style: italic;">Mot de passe :</label>
+</big>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp; 
+<input size="25" name="mpasse" minlength="8" required="" type="password" /><br />
+&nbsp; &nbsp; <br />
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp; </span><span /></span></small><span><small><br />
+<span>
+</span><br />
+
+<big style="font-family: Times New Roman; color: rgb(102, 0, 0);"><label>Photo de profil:&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;</label></big>
+<input type="file" name="avatar"/>
+
+
+
+
+<br /><br /><br />
+<span>
+<big style="font-family: Times New Roman,Times,serif;"><label style="color: rgb(102, 0, 0); font-weight: bold; font-style: italic;">Niveau
+:</label><span style="color: rgb(102, 204, 204);">&nbsp;</span>&nbsp;&nbsp;&nbsp;
+</big>&nbsp;
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
+&nbsp;
+<select name="niveau">
+<option>L1</option>
+<option>L2</option>
+<option>L3</option>
+<option>M1</option>
+<option>M2</option>
+</select>
+</span><br />
+<span>
+</span><br />
+</small>
+<span><small><br />
+<br />
+<span>
+</span><br />
+<span>
+</span></small></span></span></span></span><label style="font-weight: bold; color: rgb(102, 0, 0); font-family: Times New Roman,Times,serif; font-style: italic;">Spécialité:</label></span></big></big><big><big><span><span><span><span><small><span><big style="font-style: italic; font-weight: bold;"><big>&nbsp;</big></big>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></small></span></span></span></span></big></big>
+<select name="sp"><option>MI </option>
+<option>SM</option>
+<option>L2Info</option>
+<option>L2Math</option>
+<option>L2Chimie</option>
+<option>L2Physique</option>
+<option>L3Info</option>
+<option>L3Math</option>
+<option>L3Chimie</option>
+<option>L3Physique</option>
+<option>M1 ISI</option>
+<option>M1 ReSys</option>
+<option>M1 MCO</option>
+<option>M1 AF</option>
+<option>M1 Chimie</option>
+<option>M1 Pysique</option>
+<option>M2 ISI</option>
+<option>M2 ReSys</option>
+<option>M2 Chimie</option>
+<option>M2 Physique</option>
+</select>
+<big><big><span><span><span><span><small><span><br />
+<span>
+</span><br />
+</span></small>
+<span><small><br />
+</small>
+<span><small><br />
+<span>
+</span><br />
+<span>
+&nbsp; </span><br />
+<span> <big><span style="font-family: Times New Roman,Times,serif;">&nbsp;<span style="color: rgb(102, 0, 0); font-style: italic; font-weight: bold;">
+Verification:</span></span></big><span style="color: rgb(102, 0, 0); font-style: italic; font-weight: bold;">&nbsp;</span>&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp; &nbsp;&nbsp; 
+<input style="width: 100px; height: 30px;" name="reset" value="Effacer tout" class="bot2" type="reset" /></span><label style="font-family: Times New Roman,Times,serif; color: rgb(51, 51, 255);">
+</label></small>
+<span><span style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(102, 204, 204);">&nbsp;</span></span><small>
+&nbsp;&nbsp; &nbsp;&nbsp; </small><span style="font-family: Times New Roman,Times,serif;"><small><span style="color: rgb(102, 204, 204);">
+&nbsp;<a href="index.html" style="text-decoration: none; float: right;">
+ <input style="text-decoration: none; width: 100px; height: 30px; float: right;" name="verifier" value="Annuler" type="submit" /></a>&nbsp; <big style="color: rgb(51, 51, 255);">
+</big></span></small><br />
+</span></span></span></span></span></span></span></span></big></big>
+
+ <div style="text-align: center;">
+  <div style="text-align: center;">
+    &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;
+    <input style="cursor: pointer;margin-top: 60px;
+         border-radius: 7px;
+
+    ;background: rgb(33, 117, 191) none repeat scroll 0%; font-family: Courier New,Courier,monospace; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial; width: 100px; height: 40px;" name="envoyer" value="Envoyer" type="submit" />
+
+    <span style="font-family: Courier New,Courier,monospace;"><br />
+  </span></div>
+  </div>
+
+</form>
+
+
+
+
 </div>
-<!-- post --><!-- post --><a href="#"> </a></div>
-<!-- content -->
+<small><small><small><small><small><span /></small></small></small></small></small></div>
+<big><big> <span> <big><span style="font-family: Times New Roman,Times,serif;"><span style="color: rgb(102, 204, 204);">&nbsp;&nbsp;</span> &nbsp; &nbsp;</span></big>
+&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;<big><span style="font-family: Times New Roman,Times,serif;">&nbsp;&nbsp;</span>
+<span style="font-family: Times New Roman,Times,serif; color: rgb(102, 204, 204);">&nbsp;&nbsp;</span></big><span style="color: rgb(102, 204, 204);">
+&nbsp; </span>&nbsp; &nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; <big style="color: rgb(51, 51, 255);"><label style="font-family: Times New Roman,Times,serif;"><br />
+  <br />
+  <br />
+  </label></big><br style="font-family: Courier New,Courier,monospace;" />
+ 
+
+
+
+
+
+
+
+
+  <br />
+  <br />
+  <br />
+  <br />
+  </span></big></big>
+</div>
+</div>
+<small><small><small><small><small><!-- content -->
+</small></small></small></small></small>
 <div id="sidebar">
 <h2>Contact</a></h2>
 <ul>
@@ -246,6 +413,7 @@ target="_blank"
   <a href="M2Phy.html">24</a>
   <a href="inscription.php">25</a>
   <a href="connexion.html">26</a>
+  <a href="inscription.php">27</a>
   <a href="#">&raquo;</a>
 </div>
 <br/><br/><br/><br/><br/><br/>
